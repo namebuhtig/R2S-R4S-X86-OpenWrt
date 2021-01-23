@@ -1,8 +1,6 @@
 name: r2s
 
 on:
-  schedule:
-    - cron: 55 4 * * 6
   watch:
     types: started
 
