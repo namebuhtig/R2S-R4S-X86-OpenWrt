@@ -1,7 +1,7 @@
 name: r2s
 
 on:
-  watch:
+  push:
     types: started
 
 jobs:
