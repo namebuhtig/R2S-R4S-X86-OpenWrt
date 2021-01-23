@@ -1,4 +1,4 @@
-name: r2s
+name: main
 
 on:
   push:
